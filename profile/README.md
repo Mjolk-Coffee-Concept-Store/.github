@@ -1,12 +1,11 @@
-## Hi there 👋
+## Mjölk - Coffe Concept Store
 
-<!--
+**Mjölk** c’est quoi ? Un mélange de café, de lait, d’art, de belles choses.
 
-**Here are some ideas to get you started:**
+Mjölk, un projet de café concept store artistique unique et créatif qui proposera une partie concept store et qui accueillera des évènements créatifs divers et variés.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> **Un café - concept store pluridisciplinaire convivial, vivant et créatif :**
+> 
+> - ***Dimension restauration :** café - salon de thé avec une carte de saison et une carte fixe*
+> - ***Dimension culturelle et artistique :** vente d’objets d’arts et de petits créateurs, mise en avant de petites marques créatives et originales, artisanat local.*
+> - ***Dimension événementielle :** accueil d’ateliers artistiques et inspirants : poterie, linogravure, expositions, concerts, ateliers de développement personnel, ateliers manuels …*
